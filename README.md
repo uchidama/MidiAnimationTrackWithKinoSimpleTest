@@ -2,6 +2,7 @@
 Midi Animation Track With Kino SimpleTest 
 - https://github.com/keijiro/MidiAnimationTrack   
 - https://github.com/keijiro/kino  
+- https://github.com/keijiro/MidiAnimationExample  
 
 [![Image from Gyazo](https://i.gyazo.com/1cf3d0cca644d9faac7f5629e7889351.gif)](https://gyazo.com/1cf3d0cca644d9faac7f5629e7889351)  
 [On YouTube](https://youtu.be/Cx9sN6jKdm0)
